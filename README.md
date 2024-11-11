@@ -23,11 +23,11 @@ A modern C++ implementation of the classic Tetris game using the **Raylib** libr
 
 ## 🛠️ Getting Started
 
-1. **Clone the repository:**
+ **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/tetris-game.git
    cd tetris-game
-
+```
    
 ## 🕹️ How to Play
 The objective of Tetris is to score points by clearing horizontal lines of blocks. Here's how to play:
