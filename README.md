@@ -23,11 +23,20 @@ A modern C++ implementation of the classic Tetris game using the **Raylib** libr
 
 ## 🛠️ Getting Started
 
- **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/tetris-game.git
    cd tetris-game
-```
+   ```
+2. Navigate to the project directory:
+    ```bash
+   cd CPlusPlus-Tetris-Game
+    ```
+3. Open the project in Visual Studio Code:
+    ```bash
+   code main.code-workspace
+    ```
+4. Compile and run the program by pressing F5.
    
 ## 🕹️ How to Play
 The objective of Tetris is to score points by clearing horizontal lines of blocks. Here's how to play:
@@ -53,6 +62,16 @@ The objective of Tetris is to score points by clearing horizontal lines of block
 4. **Speed Management**: Don't rush - accuracy is more important than speed.
 5. **Clear Multiple Lines**: Try to clear multiple lines at once for bonus points.
 6. **Stay Calm**: As the game speeds up, stay focused and think ahead.
+
+
+
+## 🖼️ Screenshots
+
+![portfolio-tetris-d](https://github.com/user-attachments/assets/9d546238-6360-4a25-8788-55c0de8e0176)
+
+
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
 
 
 <div align="right">
